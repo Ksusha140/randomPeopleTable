@@ -1,0 +1,414 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 50;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		612BB0DD236B684D009A8E99 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 612BB0DC236B684D009A8E99 /* main.swift */; };
+		612BB0E4236B6863009A8E99 /* Person.swift in Sources */ = {isa = PBXBuildFile; fileRef = 612BB0E3236B6863009A8E99 /* Person.swift */; };
+		612BB0E6236B687E009A8E99 /* Address.swift in Sources */ = {isa = PBXBuildFile; fileRef = 612BB0E5236B687E009A8E99 /* Address.swift */; };
+		6190663A23787EB300D0CD8B /* FileDataLoader.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6190663923787EB300D0CD8B /* FileDataLoader.swift */; };
+		61ABC6412378991C001C72F3 /* JSONParser.swift in Sources */ = {isa = PBXBuildFile; fileRef = 61ABC6402378991C001C72F3 /* JSONParser.swift */; };
+		61ABC64323789F01001C72F3 /* RandomPersonConstructor.swift in Sources */ = {isa = PBXBuildFile; fileRef = 61ABC64223789F01001C72F3 /* RandomPersonConstructor.swift */; };
+		61ABC6452378AE7B001C72F3 /* Name.swift in Sources */ = {isa = PBXBuildFile; fileRef = 61ABC6442378AE7B001C72F3 /* Name.swift */; };
+		61ABC6472378AEF8001C72F3 /* Surname.swift in Sources */ = {isa = PBXBuildFile; fileRef = 61ABC6462378AEF8001C72F3 /* Surname.swift */; };
+		61ABC6492378AF22001C72F3 /* Patronymic.swift in Sources */ = {isa = PBXBuildFile; fileRef = 61ABC6482378AF22001C72F3 /* Patronymic.swift */; };
+		61ABC64B2378AF4C001C72F3 /* Gender.swift in Sources */ = {isa = PBXBuildFile; fileRef = 61ABC64A2378AF4C001C72F3 /* Gender.swift */; };
+		61ABC64D2378AFC6001C72F3 /* RandomAddressConstructor.swift in Sources */ = {isa = PBXBuildFile; fileRef = 61ABC64C2378AFC6001C72F3 /* RandomAddressConstructor.swift */; };
+		61ABC6522378B178001C72F3 /* Index.swift in Sources */ = {isa = PBXBuildFile; fileRef = 61ABC6512378B178001C72F3 /* Index.swift */; };
+		61B2AFD62378B311005D5415 /* Country.swift in Sources */ = {isa = PBXBuildFile; fileRef = 61B2AFD52378B311005D5415 /* Country.swift */; };
+		61B2AFDC2378B3D4005D5415 /* City.swift in Sources */ = {isa = PBXBuildFile; fileRef = 61B2AFDB2378B3D4005D5415 /* City.swift */; };
+		61B2AFE12378B5CC005D5415 /* Street.swift in Sources */ = {isa = PBXBuildFile; fileRef = 61B2AFE02378B5CC005D5415 /* Street.swift */; };
+		61B2AFE62378B923005D5415 /* Region.swift in Sources */ = {isa = PBXBuildFile; fileRef = 61B2AFE52378B923005D5415 /* Region.swift */; };
+		61B2AFE82378E461005D5415 /* TableCreator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 61B2AFE72378E461005D5415 /* TableCreator.swift */; };
+		61B2AFEC2378EE78005D5415 /* TableDataConstructor.swift in Sources */ = {isa = PBXBuildFile; fileRef = 61B2AFEB2378EE78005D5415 /* TableDataConstructor.swift */; };
+		61B2AFEE2378F7C0005D5415 /* RandomBirthdateGenerator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 61B2AFED2378F7C0005D5415 /* RandomBirthdateGenerator.swift */; };
+		61B2AFF02378FBAF005D5415 /* BirthdateFormatter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 61B2AFEF2378FBAF005D5415 /* BirthdateFormatter.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		612BB0D7236B684D009A8E99 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
+/* Begin PBXFileReference section */
+		612BB0D9236B684D009A8E99 /* Resources */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; name = Resources; path = "../../../../../../../../Desktop/xCode projects/randomPeopleTable/randomPeopleTable/Resources"; sourceTree = BUILT_PRODUCTS_DIR; };
+		612BB0DC236B684D009A8E99 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		612BB0E3236B6863009A8E99 /* Person.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Person.swift; sourceTree = "<group>"; };
+		612BB0E5236B687E009A8E99 /* Address.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Address.swift; sourceTree = "<group>"; };
+		6188BE03236DC5F5003FA7F7 /* Names.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Names.json; sourceTree = "<group>"; };
+		6188BE04236DD102003FA7F7 /* Surnames.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Surnames.json; sourceTree = "<group>"; };
+		6190663923787EB300D0CD8B /* FileDataLoader.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FileDataLoader.swift; sourceTree = "<group>"; };
+		61ABC6402378991C001C72F3 /* JSONParser.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JSONParser.swift; sourceTree = "<group>"; };
+		61ABC64223789F01001C72F3 /* RandomPersonConstructor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RandomPersonConstructor.swift; sourceTree = "<group>"; };
+		61ABC6442378AE7B001C72F3 /* Name.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Name.swift; sourceTree = "<group>"; };
+		61ABC6462378AEF8001C72F3 /* Surname.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Surname.swift; sourceTree = "<group>"; };
+		61ABC6482378AF22001C72F3 /* Patronymic.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Patronymic.swift; sourceTree = "<group>"; };
+		61ABC64A2378AF4C001C72F3 /* Gender.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Gender.swift; sourceTree = "<group>"; };
+		61ABC64C2378AFC6001C72F3 /* RandomAddressConstructor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RandomAddressConstructor.swift; sourceTree = "<group>"; };
+		61ABC64E2378B10C001C72F3 /* Indices.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Indices.json; sourceTree = "<group>"; };
+		61ABC6512378B178001C72F3 /* Index.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Index.swift; sourceTree = "<group>"; };
+		61ABC6532378B1B0001C72F3 /* Countries.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Countries.json; sourceTree = "<group>"; };
+		61B2AFD52378B311005D5415 /* Country.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Country.swift; sourceTree = "<group>"; };
+		61B2AFD82378B359005D5415 /* Cities.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Cities.json; sourceTree = "<group>"; };
+		61B2AFDB2378B3D4005D5415 /* City.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = City.swift; sourceTree = "<group>"; };
+		61B2AFDD2378B407005D5415 /* Streets.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Streets.json; sourceTree = "<group>"; };
+		61B2AFE02378B5CC005D5415 /* Street.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Street.swift; sourceTree = "<group>"; };
+		61B2AFE42378B655005D5415 /* Regions.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Regions.json; sourceTree = "<group>"; };
+		61B2AFE52378B923005D5415 /* Region.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Region.swift; sourceTree = "<group>"; };
+		61B2AFE72378E461005D5415 /* TableCreator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableCreator.swift; sourceTree = "<group>"; };
+		61B2AFEB2378EE78005D5415 /* TableDataConstructor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableDataConstructor.swift; sourceTree = "<group>"; };
+		61B2AFED2378F7C0005D5415 /* RandomBirthdateGenerator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RandomBirthdateGenerator.swift; sourceTree = "<group>"; };
+		61B2AFEF2378FBAF005D5415 /* BirthdateFormatter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BirthdateFormatter.swift; sourceTree = "<group>"; };
+		61E4550523785459000C3D29 /* Genders.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Genders.json; sourceTree = "<group>"; };
+		61E455062378557B000C3D29 /* Patronymics.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Patronymics.json; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		612BB0D6236B684D009A8E99 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		612BB0D0236B684D009A8E99 = {
+			isa = PBXGroup;
+			children = (
+				612BB0DB236B684D009A8E99 /* randomPeopleTable */,
+				612BB0DA236B684D009A8E99 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		612BB0DA236B684D009A8E99 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				612BB0D9236B684D009A8E99 /* Resources */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		612BB0DB236B684D009A8E99 /* randomPeopleTable */ = {
+			isa = PBXGroup;
+			children = (
+				61CC279F236B77EF001DCA15 /* Resources */,
+				612BB0DC236B684D009A8E99 /* main.swift */,
+				61CC279E236B7626001DCA15 /* Models */,
+				6190663923787EB300D0CD8B /* FileDataLoader.swift */,
+				61ABC6402378991C001C72F3 /* JSONParser.swift */,
+				61ABC64223789F01001C72F3 /* RandomPersonConstructor.swift */,
+				61ABC64C2378AFC6001C72F3 /* RandomAddressConstructor.swift */,
+				61B2AFE72378E461005D5415 /* TableCreator.swift */,
+				61B2AFEB2378EE78005D5415 /* TableDataConstructor.swift */,
+				61B2AFED2378F7C0005D5415 /* RandomBirthdateGenerator.swift */,
+				61B2AFEF2378FBAF005D5415 /* BirthdateFormatter.swift */,
+			);
+			path = randomPeopleTable;
+			sourceTree = "<group>";
+		};
+		619066452378936800D0CD8B /* JSONModels */ = {
+			isa = PBXGroup;
+			children = (
+				61ABC64A2378AF4C001C72F3 /* Gender.swift */,
+				61ABC6442378AE7B001C72F3 /* Name.swift */,
+				61ABC6462378AEF8001C72F3 /* Surname.swift */,
+				61ABC6482378AF22001C72F3 /* Patronymic.swift */,
+				61B2AFD52378B311005D5415 /* Country.swift */,
+				61B2AFE52378B923005D5415 /* Region.swift */,
+				61B2AFDB2378B3D4005D5415 /* City.swift */,
+				61B2AFE02378B5CC005D5415 /* Street.swift */,
+				61ABC6512378B178001C72F3 /* Index.swift */,
+			);
+			path = JSONModels;
+			sourceTree = "<group>";
+		};
+		61CC279E236B7626001DCA15 /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				619066452378936800D0CD8B /* JSONModels */,
+				612BB0E3236B6863009A8E99 /* Person.swift */,
+				612BB0E5236B687E009A8E99 /* Address.swift */,
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		61CC279F236B77EF001DCA15 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				61E4550523785459000C3D29 /* Genders.json */,
+				6188BE03236DC5F5003FA7F7 /* Names.json */,
+				6188BE04236DD102003FA7F7 /* Surnames.json */,
+				61E455062378557B000C3D29 /* Patronymics.json */,
+				61ABC6532378B1B0001C72F3 /* Countries.json */,
+				61B2AFE42378B655005D5415 /* Regions.json */,
+				61B2AFD82378B359005D5415 /* Cities.json */,
+				61B2AFDD2378B407005D5415 /* Streets.json */,
+				61ABC64E2378B10C001C72F3 /* Indices.json */,
+			);
+			path = Resources;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		612BB0D8236B684D009A8E99 /* randomPeopleTable */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 612BB0E0236B684D009A8E99 /* Build configuration list for PBXNativeTarget "randomPeopleTable" */;
+			buildPhases = (
+				612BB0D5236B684D009A8E99 /* Sources */,
+				612BB0D6236B684D009A8E99 /* Frameworks */,
+				612BB0D7236B684D009A8E99 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = randomPeopleTable;
+			productName = randomPeopleTable;
+			productReference = 612BB0D9236B684D009A8E99 /* Resources */;
+			productType = "com.apple.product-type.tool";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		612BB0D1236B684D009A8E99 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 1010;
+				LastUpgradeCheck = 1120;
+				ORGANIZATIONNAME = "Ксения Афанасьева";
+				TargetAttributes = {
+					612BB0D8236B684D009A8E99 = {
+						CreatedOnToolsVersion = 10.1;
+						LastSwiftMigration = 1120;
+					};
+				};
+			};
+			buildConfigurationList = 612BB0D4236B684D009A8E99 /* Build configuration list for PBXProject "randomPeopleTable" */;
+			compatibilityVersion = "Xcode 9.3";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 612BB0D0236B684D009A8E99;
+			productRefGroup = 612BB0DA236B684D009A8E99 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				612BB0D8236B684D009A8E99 /* randomPeopleTable */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXSourcesBuildPhase section */
+		612BB0D5236B684D009A8E99 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				61ABC6452378AE7B001C72F3 /* Name.swift in Sources */,
+				61ABC6412378991C001C72F3 /* JSONParser.swift in Sources */,
+				61B2AFE82378E461005D5415 /* TableCreator.swift in Sources */,
+				61B2AFF02378FBAF005D5415 /* BirthdateFormatter.swift in Sources */,
+				6190663A23787EB300D0CD8B /* FileDataLoader.swift in Sources */,
+				61ABC64323789F01001C72F3 /* RandomPersonConstructor.swift in Sources */,
+				61ABC64D2378AFC6001C72F3 /* RandomAddressConstructor.swift in Sources */,
+				61B2AFD62378B311005D5415 /* Country.swift in Sources */,
+				61B2AFE12378B5CC005D5415 /* Street.swift in Sources */,
+				61B2AFEC2378EE78005D5415 /* TableDataConstructor.swift in Sources */,
+				61ABC6522378B178001C72F3 /* Index.swift in Sources */,
+				61ABC64B2378AF4C001C72F3 /* Gender.swift in Sources */,
+				612BB0E6236B687E009A8E99 /* Address.swift in Sources */,
+				612BB0E4236B6863009A8E99 /* Person.swift in Sources */,
+				61B2AFE62378B923005D5415 /* Region.swift in Sources */,
+				612BB0DD236B684D009A8E99 /* main.swift in Sources */,
+				61ABC6472378AEF8001C72F3 /* Surname.swift in Sources */,
+				61ABC6492378AF22001C72F3 /* Patronymic.swift in Sources */,
+				61B2AFEE2378F7C0005D5415 /* RandomBirthdateGenerator.swift in Sources */,
+				61B2AFDC2378B3D4005D5415 /* City.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		612BB0DE236B684D009A8E99 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "Mac Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				EMBED_ASSET_PACKS_IN_PRODUCT_BUNDLE = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.12;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				"OTHER_LDFLAGS[arch=*]" = "-mmacosx-version-min=10.12";
+				SDKROOT = macosx;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		612BB0DF236B684D009A8E99 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "Mac Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				EMBED_ASSET_PACKS_IN_PRODUCT_BUNDLE = NO;
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.12;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				"OTHER_LDFLAGS[arch=*]" = "-mmacosx-version-min=10.12";
+				SDKROOT = macosx;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+			};
+			name = Release;
+		};
+		612BB0E1236B684D009A8E99 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "-";
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = HK3KSG3SH9;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+			};
+			name = Debug;
+		};
+		612BB0E2236B684D009A8E99 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "-";
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = HK3KSG3SH9;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		612BB0D4236B684D009A8E99 /* Build configuration list for PBXProject "randomPeopleTable" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				612BB0DE236B684D009A8E99 /* Debug */,
+				612BB0DF236B684D009A8E99 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		612BB0E0236B684D009A8E99 /* Build configuration list for PBXNativeTarget "randomPeopleTable" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				612BB0E1236B684D009A8E99 /* Debug */,
+				612BB0E2236B684D009A8E99 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 612BB0D1236B684D009A8E99 /* Project object */;
+}

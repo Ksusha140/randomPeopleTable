@@ -1,0 +1,258 @@
+[
+    {
+        "gender_id": 0,
+        "surname": "Иванова"
+    },
+    {
+        "gender_id": 0,
+        "surname": "Смирнова"
+    },
+    {
+        "gender_id": 0,
+        "surname": "Кузнецова"
+    },
+    {
+        "gender_id": 0,
+        "surname": "Васильева"
+    },
+    {
+        "gender_id": 0,
+        "surname": "Петрова"
+    },
+    {
+        "gender_id": 0,
+        "surname": "Соколова"
+    },
+    {
+        "gender_id": 0,
+        "surname": "Михайлова"
+    },
+    {
+        "gender_id": 0,
+        "surname": "Новикова"
+    },
+    {
+        "gender_id": 0,
+        "surname": "Фёдорова"
+    },
+    {
+        "gender_id": 0,
+        "surname": "Морозова"
+    },
+    {
+        "gender_id": 0,
+        "surname": "Волкова"
+    },
+    {
+        "gender_id": 0,
+        "surname": "Алексеева"
+    },
+    {
+        "gender_id": 0,
+        "surname": "Лебедева"
+    },
+    {
+        "gender_id": 0,
+        "surname": "Семёнова"
+    },
+    {
+        "gender_id": 0,
+        "surname": "Егорова"
+    },
+    {
+        "gender_id": 0,
+        "surname": "Павлова"
+    },
+    {
+        "gender_id": 0,
+        "surname": "Козлова"
+    },
+    {
+        "gender_id": 0,
+        "surname": "Степанова"
+    },
+    {
+        "gender_id": 0,
+        "surname": "Зинкевич"
+    },
+    {
+        "gender_id": 0,
+        "surname": "Коваленко"
+    },
+    {
+        "gender_id": 0,
+        "surname": "Писаренко"
+    },
+    {
+        "gender_id": 0,
+        "surname": "Вишневская"
+    },
+    {
+        "gender_id": 0,
+        "surname": "Лисицына"
+    },
+    {
+        "gender_id": 0,
+        "surname": "Орлова"
+    },
+    {
+        "gender_id": 0,
+        "surname": "Москаленко"
+    },
+    {
+        "gender_id": 0,
+        "surname": "Самусева"
+    },
+    {
+        "gender_id": 0,
+        "surname": "Астапова"
+    },
+    {
+        "gender_id": 0,
+        "surname": "Яночкина"
+    },
+    {
+        "gender_id": 0,
+        "surname": "Ивашкевич"
+    },
+    {
+        "gender_id": 0,
+        "surname": "Вербицкая"
+    },
+    {
+        "gender_id": 0,
+        "surname": "Бойко"
+    },
+    {
+        "gender_id": 0,
+        "surname": "Цыганок"
+    },
+    {
+        "gender_id": 1,
+        "surname": "Иванов"
+    },
+    {
+        "gender_id": 1,
+        "surname": "Смирнов"
+    },
+    {
+        "gender_id": 1,
+        "surname": "Кузнецов"
+    },
+    {
+        "gender_id": 1,
+        "surname": "Васильев"
+    },
+    {
+        "gender_id": 1,
+        "surname": "Петров"
+    },
+    {
+        "gender_id": 1,
+        "surname": "Соколов"
+    },
+    {
+        "gender_id": 1,
+        "surname": "Михайлов"
+    },
+    {
+        "gender_id": 1,
+        "surname": "Новиков"
+    },
+    {
+        "gender_id": 1,
+        "surname": "Фёдоров"
+    },
+    {
+        "gender_id": 1,
+        "surname": "Морозов"
+    },
+    {
+        "gender_id": 1,
+        "surname": "Волков"
+    },
+    {
+        "gender_id": 1,
+        "surname": "Алексеев"
+    },
+    {
+        "gender_id": 1,
+        "surname": "Лебедев"
+    },
+    {
+        "gender_id": 1,
+        "surname": "Семёнов"
+    },
+    {
+        "gender_id": 1,
+        "surname": "Егоров"
+    },
+    {
+        "gender_id": 1,
+        "surname": "Павлов"
+    },
+    {
+        "gender_id": 1,
+        "surname": "Козлов"
+    },
+    {
+        "gender_id": 1,
+        "surname": "Степанов"
+    },
+    {
+        "gender_id": 1,
+        "surname": "Зинкевич"
+    },
+    {
+        "gender_id": 1,
+        "surname": "Коваленко"
+    },
+    {
+        "gender_id": 1,
+        "surname": "Писаренко"
+    },
+    {
+        "gender_id": 1,
+        "surname": "Вишневский"
+    },
+    {
+        "gender_id": 1,
+        "surname": "Лисицын"
+    },
+    {
+        "gender_id": 1,
+        "surname": "Орлов"
+    },
+    {
+        "gender_id": 1,
+        "surname": "Москаленко"
+    },
+    {
+        "gender_id": 1,
+        "surname": "Самусев"
+    },
+    {
+        "gender_id": 1,
+        "surname": "Астапов"
+    },
+    {
+        "gender_id": 1,
+        "surname": "Яночкин"
+    },
+    {
+        "gender_id": 1,
+        "surname": "Ивашкевич"
+    },
+    {
+        "gender_id": 1,
+        "surname": "Вербицкий"
+    },
+    {
+        "gender_id": 1,
+        "surname": "Бойко"
+    },
+    {
+        "gender_id": 1,
+        "surname": "Цыганок"
+    }
+]

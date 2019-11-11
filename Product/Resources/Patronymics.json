@@ -1,0 +1,290 @@
+[
+    {
+        "gender_id": 0,
+        "patronymic": "Александровна"
+    },
+    {
+        "gender_id": 0,
+        "patronymic": "Алексеевна"
+    },
+    {
+        "gender_id": 0,
+        "patronymic": "Богдановна"
+    },
+    {
+        "gender_id": 0,
+        "patronymic": "Борисовна"
+    },
+    {
+        "gender_id": 0,
+        "patronymic": "Вадимовна"
+    },
+    {
+        "gender_id": 0,
+        "patronymic": "Викторовна"
+    },
+    {
+        "gender_id": 0,
+        "patronymic": "Генадьевна"
+    },
+    {
+        "gender_id": 0,
+        "patronymic": "Георгиевна"
+    },
+    {
+        "gender_id": 0,
+        "patronymic": "Денисовна"
+    },
+    {
+        "gender_id": 0,
+        "patronymic": "Дмитриевна"
+    },
+    {
+        "gender_id": 0,
+        "patronymic": "Евгеньевна"
+    },
+    {
+        "gender_id": 0,
+        "patronymic": "Егорова"
+    },
+    {
+        "gender_id": 0,
+        "patronymic": "Захаровна"
+    },
+    {
+        "gender_id": 0,
+        "patronymic": "Ивановна"
+    },
+    {
+        "gender_id": 0,
+        "patronymic": "Игорьевна"
+    },
+    {
+        "gender_id": 0,
+        "patronymic": "Кирилловна"
+    },
+    {
+        "gender_id": 0,
+        "patronymic": "Константиновна"
+    },
+    {
+        "gender_id": 0,
+        "patronymic": "Леонидовна"
+    },
+    {
+        "gender_id": 0,
+        "patronymic": "Львовна"
+    },
+    {
+        "gender_id": 0,
+        "patronymic": "Максимовна"
+    },
+    {
+        "gender_id": 0,
+        "patronymic": "Михайловна"
+    },
+    {
+        "gender_id": 0,
+        "patronymic": "Никитична"
+    },
+    {
+        "gender_id": 0,
+        "patronymic": "Николаевна"
+    },
+    {
+        "gender_id": 0,
+        "patronymic": "Олеговна"
+    },
+    {
+        "gender_id": 0,
+        "patronymic": "Павловна"
+    },
+    {
+        "gender_id": 0,
+        "patronymic": "Петровна"
+    },
+    {
+        "gender_id": 0,
+        "patronymic": "Романовна"
+    },
+    {
+        "gender_id": 0,
+        "patronymic": "Руслановна"
+    },
+    {
+        "gender_id": 0,
+        "patronymic": "Семёновна"
+    },
+    {
+        "gender_id": 0,
+        "patronymic": "Сергеевна"
+    },
+    {
+        "gender_id": 0,
+        "patronymic": "Тимофеевна"
+    },
+    {
+        "gender_id": 0,
+        "patronymic": "Фёдоровна"
+    },
+    {
+        "gender_id": 0,
+        "patronymic": "Эдуардовна"
+    },
+    {
+        "gender_id": 0,
+        "patronymic": "Юрьевна"
+    },
+    {
+        "gender_id": 0,
+        "patronymic": "Яковлевна"
+    },
+    {
+        "gender_id": 0,
+        "patronymic": "Ярославовна"
+    },
+    {
+        "gender_id": 1,
+        "patronymic": "Александрович"
+    },
+    {
+        "gender_id": 1,
+        "patronymic": "Алексеевич"
+    },
+    {
+        "gender_id": 1,
+        "patronymic": "Богданович"
+    },
+    {
+        "gender_id": 1,
+        "patronymic": "Борисович"
+    },
+    {
+        "gender_id": 1,
+        "patronymic": "Вадимович"
+    },
+    {
+        "gender_id": 1,
+        "patronymic": "Викторович"
+    },
+    {
+        "gender_id": 1,
+        "patronymic": "Генадьевич"
+    },
+    {
+        "gender_id": 1,
+        "patronymic": "Георгиевич"
+    },
+    {
+        "gender_id": 1,
+        "patronymic": "Денисович"
+    },
+    {
+        "gender_id": 1,
+        "patronymic": "Дмитриевич"
+    },
+    {
+        "gender_id": 1,
+        "patronymic": "Евгеньевич"
+    },
+    {
+        "gender_id": 1,
+        "patronymic": "Егорович"
+    },
+    {
+        "gender_id": 1,
+        "patronymic": "Захарович"
+    },
+    {
+        "gender_id": 1,
+        "patronymic": "Иванович"
+    },
+    {
+        "gender_id": 1,
+        "patronymic": "Игорьевич"
+    },
+    {
+        "gender_id": 1,
+        "patronymic": "Кириллович"
+    },
+    {
+        "gender_id": 1,
+        "patronymic": "Константинович"
+    },
+    {
+        "gender_id": 1,
+        "patronymic": "Леонидович"
+    },
+    {
+        "gender_id": 1,
+        "patronymic": "Львович"
+    },
+    {
+        "gender_id": 1,
+        "patronymic": "Максимович"
+    },
+    {
+        "gender_id": 1,
+        "patronymic": "Михайлович"
+    },
+    {
+        "gender_id": 1,
+        "patronymic": "Никитич"
+    },
+    {
+        "gender_id": 1,
+        "patronymic": "Николаевич"
+    },
+    {
+        "gender_id": 1,
+        "patronymic": "Олегович"
+    },
+    {
+        "gender_id": 1,
+        "patronymic": "Павлович"
+    },
+    {
+        "gender_id": 1,
+        "patronymic": "Петрович"
+    },
+    {
+        "gender_id": 1,
+        "patronymic": "Романович"
+    },
+    {
+        "gender_id": 1,
+        "patronymic": "Русланович"
+    },
+    {
+        "gender_id": 1,
+        "patronymic": "Семёнович"
+    },
+    {
+        "gender_id": 1,
+        "patronymic": "Сергеевич"
+    },
+    {
+        "gender_id": 1,
+        "patronymic": "Тимофеевич"
+    },
+    {
+        "gender_id": 1,
+        "patronymic": "Фёдорович"
+    },
+    {
+        "gender_id": 1,
+        "patronymic": "Эдуардович"
+    },
+    {
+        "gender_id": 1,
+        "patronymic": "Юрьевич"
+    },
+    {
+        "gender_id": 1,
+        "patronymic": "Яковлевич"
+    },
+    {
+        "gender_id": 1,
+        "patronymic": "Ярославович"
+    }
+]
